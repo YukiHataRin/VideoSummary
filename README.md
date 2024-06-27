@@ -34,7 +34,7 @@ MODEL=gpt-4o
 1. 克隆此存儲庫：
     ```sh
     git clone https://github.com/YukiHataRin/VideoSummary.git
-    cd 你的項目名
+    cd VideoSummary
     ```
 
 2. 安裝所需的 Python 庫：
